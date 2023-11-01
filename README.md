@@ -2,9 +2,17 @@
 
 A new Flutter project.
 
-## Getting Started
+## Benefits of using JsonPowerDB
 
-This project is a starting point for a Flutter application.
+Simple to use , real time database
+Simplest way to retrieve data in a JSON format.
+Backends code is not required for database
+No need for defining schema
+Querying the database is easy there is no need of knowledge of SQL commands
+## TECH STACK USED
+Dart
+Flutter
+JsonPowerDB ( As Database)
 
 A few resources to get you started if this is your first Flutter project:
 
