@@ -1,6 +1,10 @@
 # studentform
 
-A new Flutter project.
+Student Enrollment Form that will store data in STUDENT-TABLE relation of SCHOOL-DB database.
+
+Input Fields: {Roll-No, Full-Name, Branch,Course, Address, Branch}
+
+Primary key: Roll No.
 
 ## Benefits of using JsonPowerDB
 
